@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="VARYNDOR">
+  <rect width="32" height="32" rx="7" fill="#12161C"/>
+  <circle cx="16" cy="16.2" r="10.2" fill="#E24B32"/>
+  <path d="M6.2 15.1h19.6v2.6H6.2z" fill="#E7B15A"/>
+  <circle cx="16" cy="16.4" r="2.7" fill="#F4EAD8"/>
+  <circle cx="16" cy="16.4" r="1.25" fill="#1C8C96"/>
+</svg>
