@@ -1,0 +1,167 @@
+{
+ "Bush": {
+  "h": 0.69,
+  "zmin": -0.077,
+  "kb": 63
+ },
+ "Bush_Flowers": {
+  "h": 0.76,
+  "zmin": -0.077,
+  "kb": 102
+ },
+ "Bush_Large": {
+  "h": 1.22,
+  "zmin": -0.18,
+  "kb": 55
+ },
+ "Bush_Large_Flowers": {
+  "h": 1.26,
+  "zmin": -0.18,
+  "kb": 95
+ },
+ "Bush_Small": {
+  "h": 0.78,
+  "zmin": -0.246,
+  "kb": 49
+ },
+ "Bush_Small_Flowers": {
+  "h": 0.82,
+  "zmin": -0.246,
+  "kb": 87
+ },
+ "Flower_1": {
+  "h": 0.49,
+  "zmin": -0.004,
+  "kb": 41
+ },
+ "Flower_1_Clump": {
+  "h": 0.67,
+  "zmin": -0.005,
+  "kb": 58
+ },
+ "Flower_2": {
+  "h": 0.36,
+  "zmin": -0.008,
+  "kb": 36
+ },
+ "Flower_2_Clump": {
+  "h": 0.45,
+  "zmin": 0.001,
+  "kb": 39
+ },
+ "Flower_3_Clump": {
+  "h": 0.45,
+  "zmin": 0.001,
+  "kb": 39
+ },
+ "Flower_4_Clump": {
+  "h": 0.45,
+  "zmin": 0.001,
+  "kb": 39
+ },
+ "Flower_5_Clump": {
+  "h": 0.45,
+  "zmin": 0.001,
+  "kb": 39
+ },
+ "Grass_Large_Extruded": {
+  "h": 0.51,
+  "zmin": -0.003,
+  "kb": 28
+ },
+ "Grass_Small": {
+  "h": 0.39,
+  "zmin": -0.005,
+  "kb": 5
+ },
+ "MapleTree_1": {
+  "h": 6.64,
+  "zmin": 0.001,
+  "kb": 198
+ },
+ "MapleTree_2": {
+  "h": 6.71,
+  "zmin": 0.001,
+  "kb": 240
+ },
+ "MapleTree_3": {
+  "h": 6.99,
+  "zmin": 0.001,
+  "kb": 306
+ },
+ "MapleTree_4": {
+  "h": 3.59,
+  "zmin": -0.005,
+  "kb": 115
+ },
+ "MapleTree_5": {
+  "h": 7.28,
+  "zmin": 0.001,
+  "kb": 233
+ },
+ "PalmTree_1": {
+  "h": 5.1,
+  "zmin": 0.01,
+  "kb": 58
+ },
+ "PalmTree_2": {
+  "h": 5.28,
+  "zmin": -0.04,
+  "kb": 54
+ },
+ "PalmTree_3": {
+  "h": 4.67,
+  "zmin": -0.037,
+  "kb": 54
+ },
+ "PalmTree_4": {
+  "h": 3.65,
+  "zmin": 0.01,
+  "kb": 58
+ },
+ "PalmTree_5": {
+  "h": 1.8,
+  "zmin": -0.007,
+  "kb": 52
+ },
+ "Plant_1": {
+  "h": 0.69,
+  "zmin": -0.116,
+  "kb": 49
+ },
+ "Plant_2": {
+  "h": 0.55,
+  "zmin": -0.098,
+  "kb": 41
+ },
+ "Plant_Flowers": {
+  "h": 1.18,
+  "zmin": -0.116,
+  "kb": 45
+ },
+ "Rock_1": {
+  "h": 1.08,
+  "zmin": -0.105,
+  "kb": 35
+ },
+ "Rock_2": {
+  "h": 1.12,
+  "zmin": -0.121,
+  "kb": 34
+ },
+ "Rock_3": {
+  "h": 1.31,
+  "zmin": -0.126,
+  "kb": 57
+ },
+ "Rock_4": {
+  "h": 2.15,
+  "zmin": -0.21,
+  "kb": 46
+ },
+ "Rock_5": {
+  "h": 1.69,
+  "zmin": -0.102,
+  "kb": 54
+ }
+}
