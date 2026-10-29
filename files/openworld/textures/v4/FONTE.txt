@@ -1,0 +1,2 @@
+Texturas do dono (Stylized Handpainted, pacote _tmp/textura-nova). Gerado por _tmp/texturas/mkmaps-v4.py. Mapa: {"g_grassA": "Grass_01", "g_grassB": "Grass_02", "g_dirt": "GrassAndDirt_01", "g_path": "Dirt_01", "g_rock": "Stones_02", "g_sand": "Sand_01"}; neve e folhas iguais ao v3.
+Extras (mkmaps-v4-extra.py): g_gravel=SandAndRocks_01, g_cobble=Stones_03, g_rockflat=v3 g_rock (sbs_stone05), g_dirtdark=v3 g_dirt.
